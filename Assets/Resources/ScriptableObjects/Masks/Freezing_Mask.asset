@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa4b1bde12b8fd64ead6cd5dd6868b65, type: 3}
+  m_Name: Freezing_Mask
+  m_EditorClassIdentifier: 
+  Abilities:
+  - {fileID: 2986376295129033046, guid: 001265b418a72414cb240a6ba2882d96, type: 3}
+  - {fileID: 3925268713533128688, guid: 11870e64940987746b89157f2e6b8277, type: 3}
+  - {fileID: 2385874370000013860, guid: 63e85bf1a069abd4898b0d592f42982d, type: 3}
+  - {fileID: 3308131334178109134, guid: 0b3a0c44f43a98d4cb0be38c543f79c7, type: 3}
+  _MaskColor: {r: 0, g: 0.73154783, b: 1, a: 1}
+  _maskClip: {fileID: 8300000, guid: 4ba5046ffb8faa846b409b7c4ca63100, type: 3}

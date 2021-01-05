@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc4cabb08b3e4342a4147e8691a62c9, type: 3}
+  m_Name: Holy Beam
+  m_EditorClassIdentifier: 
+  _name: HolyBeam
+  _description: Magic Damage
+  _cooldown: 0
+  _cdStat: 1
+  _heal: 0
+  _dmg: 2
+  _lifeSteal: 0
+  _statUp: 0
+  _statDown: 0
+  _status: 
+  _healthScale: 0
+  _apScale: 0
+  _adScale: 0
+  _available: 0
+  _maskSpellLink: 4

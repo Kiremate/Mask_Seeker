@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa4b1bde12b8fd64ead6cd5dd6868b65, type: 3}
+  m_Name: Holy_Mask
+  m_EditorClassIdentifier: 
+  Abilities:
+  - {fileID: 9187896092184622863, guid: 107f7169cda306e48871e550da400847, type: 3}
+  - {fileID: 9002439037950097731, guid: d829e68c25aedb14ca137c075d01b5e7, type: 3}
+  - {fileID: 3124731664789713838, guid: 15866096e4e27944f93cd57b3390b94e, type: 3}
+  - {fileID: 2800226852107614711, guid: 3899e7706bbc8a84a9b2d6d7ff9eef0a, type: 3}
+  _MaskColor: {r: 1, g: 0.9060749, b: 0, a: 1}
+  _maskClip: {fileID: 8300000, guid: 9352fc03f29f37942beeb45c437ddb29, type: 3}

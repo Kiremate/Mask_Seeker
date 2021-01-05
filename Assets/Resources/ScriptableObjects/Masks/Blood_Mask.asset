@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa4b1bde12b8fd64ead6cd5dd6868b65, type: 3}
+  m_Name: Blood_Mask
+  m_EditorClassIdentifier: 
+  Abilities:
+  - {fileID: 3194971792974831287, guid: 3e86354aa5065cb42953e64115490ff2, type: 3}
+  - {fileID: 3939061348919197336, guid: 16e9c55fb0b95e542bb35e0a6c84857e, type: 3}
+  - {fileID: 5124784414812524495, guid: 5857a81e18086d948a8a9745ba633d84, type: 3}
+  - {fileID: 8546903884230225781, guid: cf48d2df9a6a10945a1d32f2fb705bfb, type: 3}
+  _MaskColor: {r: 1, g: 0, b: 0, a: 1}
+  _maskClip: {fileID: 8300000, guid: 4f585e16a20dcab4f85c4ec080d7a044, type: 3}
